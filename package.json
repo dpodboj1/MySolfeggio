@@ -1,0 +1,13 @@
+{
+  "name": "MySolfeggio",
+  "version": "1.0.0",
+  "description": "A presentation website about MySolfeggio - a mobile application to learn music theory.",
+  "main": "index.js",
+  "repository": "https://github.com/dpodboj1/MySolfeggio",
+  "author": "dpodboj1 <podbojec.damir@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
